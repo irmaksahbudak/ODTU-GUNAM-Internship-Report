@@ -13,9 +13,14 @@ During my internship at ODTÜ GÜNAM, I had the opportunity to observe and take 
 Each process was documented in technical detail and supported by visuals, real equipment photos, and personal observations.
 
 **What’s Inside**
+
 Types of Solar Cells: Overview of SHJ, PERC, TOPCon, and IBC architectures  
+
 Process Steps: Detailed explanations of texturing, doping, passivation, metallization, LCO, firing  
+
 Characterization Tools: Sinton Lifetime Tester, Semilab PLI, WEP Wafer Profiler  
+
 Real Photos from the Lab 
+
 References to Key Scientific Literature
 
